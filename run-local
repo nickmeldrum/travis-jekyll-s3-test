@@ -1,0 +1,2 @@
+cd $JEKYLL_SITE_NAME
+bundle exec jekyll serve

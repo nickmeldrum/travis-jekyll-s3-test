@@ -1,3 +1,6 @@
 #!/bin/sh
+gem install bundler
 gem install jekyll
 jekyll new $JEKYLL_SITE_NAME
+cd $JEKYLL_SITE_NAME
+bundle install
