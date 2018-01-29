@@ -1,0 +1,3 @@
+#!/bin/sh
+gem install jekyll
+jekyll new $JEKYLL_SITE_NAME
