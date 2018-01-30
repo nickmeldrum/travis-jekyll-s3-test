@@ -2,4 +2,4 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./$JEKYLL_SITE_NAME --disable-external
+bundle exec htmlproofer test-site --disable-external
