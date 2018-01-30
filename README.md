@@ -7,12 +7,12 @@
 
 ## Installation
 
-Run `. ./init test-site` to initialise the local build. (If you want to name the site something else then `rm -rf` the `test-site` folder and call the `init` method with the new site name as the argument.
+Run `. ./script/init test-site` to initialise the local build. (If you want to name the site something else then `rm -rf` the `test-site` folder and call the `init` method with the new site name as the argument.
 
 Then run `setup` to setup jekyll and create a new jekyll site.
 
 ## Commands
 
-Note: to run any commands in a shell, you must run the `. ./init test-site` command first to setup the shell correctly.
+Note: to run any commands in a shell, you must run the `. ./script/init test-site` command first to setup the shell correctly.
 
 To run the jekyll site locally run the `run-local` command.
