@@ -1,5 +1,7 @@
 #!/bin/sh
 
+export JEKYLL_SITE_NAME=$1
+
 gem install bundler
 gem install jekyll
 gem install html-proofer
