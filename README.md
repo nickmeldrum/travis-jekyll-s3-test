@@ -19,3 +19,8 @@ To run the jekyll site locally run the `local:run` command.
 To test the jekyll site locally run the `local:test` command.
 
 The travis build script is configured to run the `ci:build` command which will do a jekyll build and run htmlproofer to test the build.
+
+## Brand
+
+https://color.adobe.com/create/color-wheel/?copy=true&base=2&rule=Custom&selected=4&name=Copy%20of%20stickyboard&mode=rgb&rgbvalues=0.05475818619339773,0.291845812960357,0.6000000000000001,0.3536979619362134,0.634729629902792,1,0.22832816574259207,0.5203913881842657,0.9,1,0.7316386210978574,0.22889014679771513,0.9,0.6560627673719788,0.39648089988607216&swatchOrder=0,1,2,3,4
+
